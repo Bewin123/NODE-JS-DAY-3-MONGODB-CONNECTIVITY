@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "John Doe", "students": [] },
+  { "id": 2, "name": "Jane Smith", "students": [] },
+  { "id": 3, "name": "Michael Johnson", "students": [] },
+  { "id": 4, "name": "Emily Davis", "students": [] },
+  { "id": 5, "name": "David Wilson", "students": [] }
+]
