@@ -17,3 +17,4 @@ This project implements APIs for managing mentors and students using a MongoDB d
    git clone <repository_url>
 
 ## http://localhost:3000/mentor-student-details ---->THIS IS THE LOCAL HOST 
+## https://node-js-day-3-mongodb-connectivity.onrender.com/mentor-student-details --------> THIS IS THE RENDER LINK
